@@ -57,3 +57,8 @@ ul#countdown li .label {
   transform: translateY(+200%);
   font-size: 40px
 }
+
+html {
+ overflow-y: hidden; 
+ overflow-x: hidden;
+  }
